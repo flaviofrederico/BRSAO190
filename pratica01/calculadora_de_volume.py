@@ -9,13 +9,13 @@ Altura: 20 cm
 
 """
 
-Comprimento= 12
-Largura= 14
-Altura= 20
+comprimento= 12
+largura= 14
+altura= 20
 
-volume= Comprimento * Largura * Altura
+volume= comprimento * largura * altura
 
-print(f"Comprimento:{Comprimento} cm")
-print(f"Largura:{Largura} cm")
-print(f"Altura:{Altura} cm")
+print(f"Comprimento:{comprimento} cm")
+print(f"Largura:{largura} cm")
+print(f"Altura:{altura} cm")
 print(f"O volume da caixa retangular é de {volume} cm³")
